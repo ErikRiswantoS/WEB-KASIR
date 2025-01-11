@@ -91,7 +91,7 @@ CREATE TABLE `member` (
 /*Data for the table `member` */
 
 insert  into `member`(`id_member`,`nm_member`,`alamat_member`,`telepon`,`email`,`gambar`,`NIK`) values 
-(1,'Fauzan Falah','uj harapan','081234567890','example@gmail.com','unnamed.jpg','12314121');
+(1,'ERIK RISWANTO','SUKABUMI','081234567890','erikriswantosaputra@gmail.com','unnamed.jpg','12314121');
 
 /*Table structure for table `nota` */
 
@@ -142,7 +142,7 @@ CREATE TABLE `toko` (
 /*Data for the table `toko` */
 
 insert  into `toko`(`id_toko`,`nama_toko`,`alamat_toko`,`tlp`,`nama_pemilik`) values 
-(1,'CV Daruttaqwa','Ujung Harapan','081234567890','Fauzan Falah');
+(1,'KOPRASI HMTI NUSA PUTRA','SUKABUMI','081234567890','ERIK RISWANTO SAPUTRA');
 
 /*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
 /*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
